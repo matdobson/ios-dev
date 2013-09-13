@@ -1,0 +1,269 @@
+﻿/* No comment provided by engineer. */
+"10 mins." = "10 min.";
+
+/* No comment provided by engineer. */
+"15 mins." = "15 min.";
+
+/* No comment provided by engineer. */
+"2 mins." = "2 min.";
+
+/* No comment provided by engineer. */
+"20 mins." = "20 min.";
+
+/* No comment provided by engineer. */
+"30 mins." = "30 min.";
+
+/* No comment provided by engineer. */
+"30 secs." = "30 sec.";
+
+/* No comment provided by engineer. */
+"40 mins." = "40 min.";
+
+/* No comment provided by engineer. */
+"5 mins." = "5 min.";
+
+/* No comment provided by engineer. */
+"A new report has been sent to your Control Panel" = "Ein neuer Report wurde ans Web Control-Panel gesendet";
+
+/* No comment provided by engineer. */
+"About" = "Über";
+
+/* No comment provided by engineer. */
+"Access Denied" = "Zugriff verweigert";
+
+/* No comment provided by engineer. */
+"Accessing your account..." = "Zugriff auf Account...";
+
+/* No comment provided by engineer. */
+"Account created! Remember to verify your account by opening your inbox and clicking on the link we sent to your email address." = "Account erstellt! Bitte bestätigen sie ihren Account noch per Klick auf den Link in der Mail gesendet an ihrer E-Mail-Adresse.";
+
+/* No comment provided by engineer. */
+"Add this device!" = "Gerät hinzufügen!";
+
+/* No comment provided by engineer. */
+"Alert on report sent" = "Alarm bei gesendetem Report";
+
+/* No comment provided by engineer. */
+"Already a Prey user" = "Bereits Prey User";
+
+/* Regarding getting the device's location */
+"An unknown error has occurred" = "Ein Fehler ist aufgetreten";
+
+/* No comment provided by engineer. */
+"Ask for password" = "Nach Passwort fragen";
+
+/* No comment provided by engineer. */
+"Attaching device..." = "Gerät wird hinzugefügt...";
+
+/* No comment provided by engineer. */
+"Best possible" = "Bestmöglich";
+
+/* No comment provided by engineer. */
+"Camouflage mode" = "Camouflage Modus";
+
+/* No comment provided by engineer. */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Checking your password..." = "Passwort wird überprüft...";
+
+/* No comment provided by engineer. */
+"Choose a 6 characters password" = "Wähle ein 6-stelliges Passwort";
+
+/* No comment provided by engineer. */
+"Congratulations!" = "Glückwunsch!";
+
+"Congrats Pro Message" = "Thanks for your support. You've just gained access to all the Pro features, including private and direct support from us, the Prey Team.";
+
+"Congrats Pro Title" = "Congrats,\nyou're now Pro";
+
+
+/* No comment provided by engineer. */
+"Congratulations! You have successfully associated this iOS device with your Prey account." = "Glückwunsch! Dieses Gerät wurde erfolgreich eingerichtet. Überwache es jetzt auf preyproject.com.\nRest safe!";
+
+/* No comment provided by engineer. */
+"Couldn't add your device" = "Gerät konnte nicht hinzugefügt werden";
+
+/* No comment provided by engineer. */
+"Couldn't check your password" = "Passwort konnte nicht überprüft werden";
+
+/* No comment provided by engineer. */
+"Create my account!" = "Account erstellen!";
+
+/* No comment provided by engineer. */
+"Create Prey account" = "Prey Account erstellen";
+
+/* No comment provided by engineer. */
+"Creating account..." = "Account wird erstellt...";
+
+/* No comment provided by engineer. */
+"Delay" = "Verzögerung";
+
+/* No comment provided by engineer. */
+"Delete log" = "Log löschen";
+
+/* No comment provided by engineer. */
+"Detach device" = "Gerät trennen";
+
+/* No comment provided by engineer. */
+"Email" = "Email";
+
+/* No comment provided by engineer. */
+"Enter a valid e-mail address" = "Gültige E-Mail Adresse eingeben";
+
+/* No comment provided by engineer. */
+"Execution control" = "Execution control";
+
+/* No comment provided by engineer. */
+"Hundreds of Meters" = "Hunderte Meter";
+
+/* No comment provided by engineer. */
+"It seems you've reached your limit for devices on the Control Panel. Try removing this device from your account if you had already added." = "Du hast deine freien Slots für Geräte deines Prey Accounts aufgebraucht.\n\nSie können mit einem Upgrade zu Prey Pro die Anzahl der Slots erhöhen.";
+
+/* No comment provided by engineer. */
+"Location accuracy" = "Lokalisierungs-Genauigkeit";
+
+/* No comment provided by engineer. */
+"Log" = "Log";
+
+/* No comment provided by engineer. */
+"Log in to Prey" = "Login in Prey";
+
+/* No comment provided by engineer. */
+"Log records will be deleted.\n\nAre you sure?" = "Log Einträge werden gelöscht.\n\nSind sie sicher?";
+
+/* No comment provided by engineer. */
+"Log records will be sent to developers. You'll be able to check the email body before proceed." = "Log Einträge werden an die Entwickler gesendet. Sie können den E-Mail-Text vor dem Fortfahren überprüfen.";
+
+/* No comment provided by engineer. */
+"Mark as missing" = "Als vermisst markieren";
+
+/* No comment provided by engineer. */
+"Mark as recovered" = "Als wiedergefunden markieren";
+
+/* No comment provided by engineer. */
+"Missing" = "Vermisst";
+
+/* No comment provided by engineer. */
+"Name" = "Name";
+
+/* No comment provided by engineer. */
+"Nearest 10 meters" = "Nächste 10 Meter";
+
+/* No comment provided by engineer. */
+"Nearest 3 kilometers" = "Nächste 3 Kilometer";
+
+/* No comment provided by engineer. */
+"New user" = "Neuer Benutzer";
+
+/* No comment provided by engineer. */
+"No, don't delete" = "Nein, nicht löschen";
+
+/* No comment provided by engineer. */
+"None: Send everything." = "Nichts: Alles senden.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"One kilometer" = "Ein Kilometer";
+
+/* No comment provided by engineer. */
+"Password" = "Passwort";
+
+/* No comment provided by engineer. */
+"Password must be at least 6 characters" = "Passwort muss mindestens 6-stellig sein";
+
+/* No comment provided by engineer. */
+"Passwords do not match" = "Passwörter stimmen nicht überein";
+
+/* No comment provided by engineer. */
+"Please wait" = "Bitte warten";
+
+/* No comment provided by engineer. */
+"Prey alert" = "Prey Alarm";
+
+/* No comment provided by engineer. */
+"Prey next execution in %i minutes." = "Nächste Prey Ausführung in %i Minuten.";
+
+/* No comment provided by engineer. */
+"Prey will stop sending reports to the Control Panel and your device will be mark as recovered.\n\nAre you sure?" = "Prey wird keine Reports mehr an das Web Control-Panel senden und das Gerät wird als wiedergefunden markiert.\n\nSind sie sicher?";
+
+/* No comment provided by engineer. */
+"Quite accurate" = "Ziemlich genau";
+
+/* No comment provided by engineer. */
+"Read Message" = "Nachricht lesen";
+
+/* No comment provided by engineer. */
+"Removing device..." = "Gerät wird entfernt...";
+
+/* No comment provided by engineer. */
+"Repeat your password" = "Passwort wiederholen";
+
+/* No comment provided by engineer. */
+"Report couldn't be sent" = "Report konnte nicht gesendet werden";
+
+/* No comment provided by engineer. */
+"Send log" = "Log senden";
+
+/* No comment provided by engineer. */
+"Settings" = "Einstellungen";
+
+/* No comment provided by engineer. */
+"Starting Prey..." = "Prey wird gestartet...";
+
+/* No comment provided by engineer. */
+"Stopping Prey..." = "Prey wird angehalten...";
+
+/* No comment provided by engineer. */
+"There was a problem getting your account information. Please make sure the email address you entered is valid, as well as your password." = "Es ist ein Problem beim Abrufen der Account-Informationen aufgetreten. Bitte überprüfen sie die eingegebene E-Mail-Adresse und Passwort.";
+
+/* No comment provided by engineer. */
+"Unable to access Location Services.\n You need to grant Prey access if you wish to track your device." = "Zugriff auf Location Services fehlgeschlagen.\n Sie müssen Prey Zugriff gewähren um dieses Gerät zu überwachen.";
+
+/* No comment provided by engineer. */
+"Unable to fetch location data. Is this device on airplane mode?" = "Abruf der Location-Daten nicht möglich. Ist das Gerät im Flugzeug-Modus?";
+
+/* No comment provided by engineer. */
+"User couldn't be created" = "Benutzer konnte nicht erstellt werden";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
+
+/* No comment provided by engineer. */
+"View Details" = "Details anzeigen";
+
+/* No comment provided by engineer. */
+"Warning" = "Warnung";
+
+/* No comment provided by engineer. */
+"We have a situation!" = "Es besteht ein Problem!";
+
+/* No comment provided by engineer. */
+"Welcome to Prey!" = "Willkommen zu Prey!";
+
+/* No comment provided by engineer. */
+"Wrong password. Try again." = "Falsches Passwort. Erneut versuchen.";
+
+/* No comment provided by engineer. */
+"Yes, remove from my account" = "Ja, Gerät entfernen";
+
+/* No comment provided by engineer. */
+"You have successfully associated this device with your Prey Control Panel account." = "Das Gerät wurde erfolgreich mit ihrem Web Control-Panel verknüpft.";
+
+/* No comment provided by engineer. */
+"You have to enable Location Services" = "Sie müssen die Location Services aktivieren";
+
+/* No comment provided by engineer. */
+"You're about to delete this device from the Control Panel.\n Are you sure?" = "Hiermit löschen sie das Gerät aus dem Control-Panel. Sind sie sicher?";
+
+/* No comment provided by engineer. */
+"You're attempting to mark this device as missing, and start sending reports to the Control Panel.\n\nAre you sure?" = "Wenn sie dieses Gerät als vermisst markieren wird es Reports ans Web Control-Panel senden.\n\nSind sie sicher?";
+
+/* No comment provided by engineer. */
+"Your email" = "Ihre E-Mail-Adresse";
+
+/* No comment provided by engineer. */
+"Your name" = "Ihre Name";
+
